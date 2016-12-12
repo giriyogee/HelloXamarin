@@ -16,7 +16,7 @@ namespace HelloXamarin
             Content = new StackLayout
             {
                 Children = {
-                    new Label { Text = "About - <Some Sample text>" }
+                    new Label { Text = "About - <Some Sample text> <Sample Text>" }
                 }
             };
         }
